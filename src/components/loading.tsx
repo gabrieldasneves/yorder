@@ -1,7 +1,6 @@
 import React from "react";
 import { ActivityIndicator, View } from "react-native";
 import colors from "tailwindcss/colors";
-import { styles } from "./styles";
 
 export function Loading() {
   return (
